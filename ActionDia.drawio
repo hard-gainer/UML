@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T16:55:37.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lEoarPgSo10nNuS5yvxQ" version="22.0.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-06T09:18:03.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="KawhVFI3e2cd5U0PvDkI" version="22.0.2" type="device">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2765" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
           <mxGeometry x="660" y="360" width="100" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="jirRao2P084-9lLm73-w-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jirRao2P084-9lLm73-w-33">
-          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="jirRao2P084-9lLm73-w-35" value="showCanvasPanel()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="jirRao2P084-9lLm73-w-10" target="jirRao2P084-9lLm73-w-36">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jirRao2P084-9lLm73-w-42" value="Figure" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1200" y="500" width="100" height="940" as="geometry" />
+          <mxGeometry x="1230" y="520" width="100" height="940" as="geometry" />
         </mxCell>
         <mxCell id="jirRao2P084-9lLm73-w-43" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="jirRao2P084-9lLm73-w-42">
           <mxGeometry x="35" y="930" width="30" height="30" as="geometry" />
@@ -256,6 +256,59 @@
         </mxCell>
         <mxCell id="jirRao2P084-9lLm73-w-100" value="changeScale()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1128" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-102" value="GraphicalLibrary" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1510" y="570" width="225" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-103" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="jirRao2P084-9lLm73-w-102">
+          <mxGeometry x="97.5" y="880" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-104" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jirRao2P084-9lLm73-w-102">
+          <mxGeometry x="107.5" y="140" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-119" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="jirRao2P084-9lLm73-w-102" source="jirRao2P084-9lLm73-w-104" target="jirRao2P084-9lLm73-w-104">
+          <mxGeometry x="0.0769" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="190" as="sourcePoint" />
+            <mxPoint x="80" y="190" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="170" y="150" />
+              <mxPoint x="170" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-125" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jirRao2P084-9lLm73-w-102">
+          <mxGeometry x="107.5" y="580" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-126" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="jirRao2P084-9lLm73-w-102" source="jirRao2P084-9lLm73-w-125" target="jirRao2P084-9lLm73-w-125">
+          <mxGeometry x="0.0769" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="145" y="630" as="sourcePoint" />
+            <mxPoint x="145" y="630" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="235" y="590" />
+              <mxPoint x="235" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-127" value="showFrame()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jirRao2P084-9lLm73-w-102">
+          <mxGeometry x="200" y="588" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-109" value="createCanvas()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="jirRao2P084-9lLm73-w-104">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="710" y="770" as="sourcePoint" />
+            <mxPoint x="1624.5" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-120" value="showFrame()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="748" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jirRao2P084-9lLm73-w-128" value="draw()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="jirRao2P084-9lLm73-w-83" target="jirRao2P084-9lLm73-w-125">
+          <mxGeometry x="-0.0006" width="80" relative="1" as="geometry">
+            <mxPoint x="1400" y="1290" as="sourcePoint" />
+            <mxPoint x="1580" y="1290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
