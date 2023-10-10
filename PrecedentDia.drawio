@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T18:30:14.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7_obUJ8vvJ6CXBk0e_c6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T18:36:58.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="s-0ws2CnNf2mcA3uwtGC" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="w36zMTe6NZIjlMsrZG2o">
-    <mxGraphModel dx="1815" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,9 +11,9 @@
           <mxGeometry x="-110" y="410" width="1430" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-41" value="Зарегистрироваться" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
-          <mxGeometry x="210" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="280" y="210" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HUOojAvi6_j62QEI-yOp-42" value="Залогиниться" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
+        <mxCell id="HUOojAvi6_j62QEI-yOp-42" value="Авторизоваться" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
           <mxGeometry x="210" y="620" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-43" value="Вызвать такси" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
@@ -25,23 +25,11 @@
             <mxPoint x="461" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HUOojAvi6_j62QEI-yOp-48" value="&quot;&quot;Extend&quot;&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HUOojAvi6_j62QEI-yOp-5" source="HUOojAvi6_j62QEI-yOp-41" target="HUOojAvi6_j62QEI-yOp-62">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="380" y="517" as="sourcePoint" />
-            <mxPoint x="471" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-49" value="Принять заказ на поездку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
           <mxGeometry x="360" y="730" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-53" value="Отклонить заказ на поездку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
           <mxGeometry x="360" y="880" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HUOojAvi6_j62QEI-yOp-56" value="&quot;&quot;Extend&quot;&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HUOojAvi6_j62QEI-yOp-5" source="HUOojAvi6_j62QEI-yOp-43" target="HUOojAvi6_j62QEI-yOp-49">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="487" y="670" as="sourcePoint" />
-            <mxPoint x="573" y="721" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-57" value="&quot;&quot;Extend&quot;&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HUOojAvi6_j62QEI-yOp-5" source="HUOojAvi6_j62QEI-yOp-49" target="HUOojAvi6_j62QEI-yOp-53">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -53,7 +41,7 @@
           <mxGeometry x="630" y="820" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-59" value="Закончить поездку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
-          <mxGeometry x="930" y="670" width="140" height="70" as="geometry" />
+          <mxGeometry x="960" y="759" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-60" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HUOojAvi6_j62QEI-yOp-5" source="HUOojAvi6_j62QEI-yOp-49" target="HUOojAvi6_j62QEI-yOp-58">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -69,12 +57,6 @@
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-62" value="Получить список предыдущих поездок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
           <mxGeometry x="480" y="390" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HUOojAvi6_j62QEI-yOp-63" value="&quot;&quot;Extend&quot;&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HUOojAvi6_j62QEI-yOp-5" source="HUOojAvi6_j62QEI-yOp-41" target="HUOojAvi6_j62QEI-yOp-43">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="360" y="530" as="sourcePoint" />
-            <mxPoint x="500" y="510" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-64" value="&quot;&quot;Extend&quot;&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.833;exitY=0.055;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="HUOojAvi6_j62QEI-yOp-5" source="HUOojAvi6_j62QEI-yOp-42" target="HUOojAvi6_j62QEI-yOp-62">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -107,6 +89,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="900" y="530" as="sourcePoint" />
             <mxPoint x="1015" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUOojAvi6_j62QEI-yOp-73" value="Просмотреть отчёт об оплате" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HUOojAvi6_j62QEI-yOp-5">
+          <mxGeometry x="960" y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HUOojAvi6_j62QEI-yOp-74" value="&quot;&quot;Extend&quot;&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HUOojAvi6_j62QEI-yOp-5" source="HUOojAvi6_j62QEI-yOp-68" target="HUOojAvi6_j62QEI-yOp-73">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="890" y="650" as="sourcePoint" />
+            <mxPoint x="980" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HUOojAvi6_j62QEI-yOp-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HUOojAvi6_j62QEI-yOp-2" target="HUOojAvi6_j62QEI-yOp-41">
