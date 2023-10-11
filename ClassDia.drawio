@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T18:54:39.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TSf5-brPsf5rRmNaMFRo" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T18:55:00.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="KKqw9Wlp2fUhiNuPqiA5" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="VMVxRxrSuvd6hhNSu_wA">
-    <mxGraphModel dx="603" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,7 +844,7 @@
         </mxCell>
         <mxCell id="topq8Z0ZQXun5n3QqUE0-398" value="authorize as" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="topq8Z0ZQXun5n3QqUE0-397">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="156" y="133" as="offset" />
+            <mxPoint x="116" y="128" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="topq8Z0ZQXun5n3QqUE0-399" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1.013;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="topq8Z0ZQXun5n3QqUE0-15" target="topq8Z0ZQXun5n3QqUE0-37">
