@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T21:39:04.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TklntbQWuT66uzEE3IZy" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T21:39:33.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JGuDrl7fBINJMbjCOQiA" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="l8LlNZg6rUj_ulNN_cUZ">
     <mxGraphModel dx="1815" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,6 +211,15 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="100" y="180" as="sourcePoint" />
             <mxPoint x="260" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOe7ErlNW58BYiNXJ7lQ-122" value="getPaymentDetails()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="eOe7ErlNW58BYiNXJ7lQ-54" source="eOe7ErlNW58BYiNXJ7lQ-55" target="eOe7ErlNW58BYiNXJ7lQ-55">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="190" as="sourcePoint" />
+            <mxPoint x="220" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="190" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eOe7ErlNW58BYiNXJ7lQ-58" value="orderTaxi()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="eOe7ErlNW58BYiNXJ7lQ-49" target="eOe7ErlNW58BYiNXJ7lQ-52">
