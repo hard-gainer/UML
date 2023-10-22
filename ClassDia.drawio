@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T15:39:45.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="43nXYIffcLnWmjYkYPM2" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T15:40:19.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="y_gw3aKOj3v-3Xei6iir" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="VMVxRxrSuvd6hhNSu_wA">
     <mxGraphModel dx="3728" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1387,7 +1387,7 @@
         <mxCell id="bA0o8jrbdhIKegOQsd1L-146" value="+ leaveFeedback()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="bA0o8jrbdhIKegOQsd1L-70">
           <mxGeometry y="190" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bA0o8jrbdhIKegOQsd1L-147" value="+ showPaymentDetails(): List" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="bA0o8jrbdhIKegOQsd1L-70">
+        <mxCell id="bA0o8jrbdhIKegOQsd1L-147" value="+ showPaymentDetails()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="bA0o8jrbdhIKegOQsd1L-70">
           <mxGeometry y="216" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bA0o8jrbdhIKegOQsd1L-79" value="login()" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.744;exitY=1.068;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="bA0o8jrbdhIKegOQsd1L-78" target="bA0o8jrbdhIKegOQsd1L-70">
