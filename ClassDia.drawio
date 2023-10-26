@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T20:09:17.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ugPSBxWrOMSGXVLgeiTc" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T20:09:29.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="T5UPZtEpHi4SIdGf-UmI" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="VMVxRxrSuvd6hhNSu_wA">
     <mxGraphModel dx="2643" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,14 +324,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bA0o8jrbdhIKegOQsd1L-135" value="startRide()" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.999;exitY=0.146;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="bA0o8jrbdhIKegOQsd1L-70" target="bA0o8jrbdhIKegOQsd1L-150">
+        <mxCell id="bA0o8jrbdhIKegOQsd1L-135" value="startRide()" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1.004;exitY=0.081;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="bA0o8jrbdhIKegOQsd1L-70" target="bA0o8jrbdhIKegOQsd1L-150">
           <mxGeometry x="0.3882" y="7" width="160" relative="1" as="geometry">
             <mxPoint x="-210" y="1999" as="sourcePoint" />
             <mxPoint x="279" y="1630" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bA0o8jrbdhIKegOQsd1L-136" value="cancelRide()" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA0o8jrbdhIKegOQsd1L-80" target="bA0o8jrbdhIKegOQsd1L-151">
+        <mxCell id="bA0o8jrbdhIKegOQsd1L-136" value="cancelRide()" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.993;exitY=-0.054;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="bA0o8jrbdhIKegOQsd1L-80" target="bA0o8jrbdhIKegOQsd1L-151">
           <mxGeometry x="0.6432" y="-18" width="160" relative="1" as="geometry">
             <mxPoint x="-190" y="1966" as="sourcePoint" />
             <mxPoint x="380" y="1840" as="targetPoint" />
