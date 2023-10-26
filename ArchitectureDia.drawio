@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T21:57:28.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mnzPMzQPWVQ2wq7E7Usu" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T21:59:15.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EFVcTGOZi1u8RfnXtZrd" version="22.0.8" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="4617" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3382" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="cKeQ6S0oiYJnXy505rPp-80" value="модуль регистрации и авторизации" style="html=1;whiteSpace=wrap;" parent="cKeQ6S0oiYJnXy505rPp-67" vertex="1">
           <mxGeometry x="780" y="145" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cKeQ6S0oiYJnXy505rPp-84" value="Модуль создания и выдачи заказа" style="whiteSpace=wrap;html=1;" parent="cKeQ6S0oiYJnXy505rPp-67" vertex="1">
+        <mxCell id="cKeQ6S0oiYJnXy505rPp-84" value="Слой бизнес-логики" style="whiteSpace=wrap;html=1;" parent="cKeQ6S0oiYJnXy505rPp-67" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-85" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cKeQ6S0oiYJnXy505rPp-74" target="cKeQ6S0oiYJnXy505rPp-77" edge="1">
