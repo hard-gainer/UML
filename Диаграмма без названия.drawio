@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T14:07:15.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VtmApV6kFNQ8xv29-cN-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T14:15:58.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YVBrwdzEwapg7IMocG6h" version="22.0.8" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3382" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -159,22 +159,6 @@
         <mxCell id="cKeQ6S0oiYJnXy505rPp-80" value="модуль регистрации и авторизации" style="html=1;whiteSpace=wrap;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-26">
           <mxGeometry x="940" y="290" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cKeQ6S0oiYJnXy505rPp-74" value="модуль пользовательского интерфейса" style="html=1;whiteSpace=wrap;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-26">
-          <mxGeometry x="570" y="385" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cKeQ6S0oiYJnXy505rPp-81" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="cKeQ6S0oiYJnXy505rPp-26" source="cKeQ6S0oiYJnXy505rPp-48" target="cKeQ6S0oiYJnXy505rPp-74">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="475" y="360" as="sourcePoint" />
-            <mxPoint x="470" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cKeQ6S0oiYJnXy505rPp-82" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="cKeQ6S0oiYJnXy505rPp-26" source="cKeQ6S0oiYJnXy505rPp-80" target="cKeQ6S0oiYJnXy505rPp-74">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="370" y="325" as="sourcePoint" />
-            <mxPoint x="580" y="420" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-46" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="281" width="30" height="60" as="geometry" />
         </mxCell>
@@ -194,22 +178,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-67" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="770" width="1250" height="540" as="geometry" />
+          <mxGeometry x="-1140" y="1060" width="1250" height="540" as="geometry" />
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-75" value="модуль геолокации" style="html=1;whiteSpace=wrap;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-67">
-          <mxGeometry x="400" y="170" width="110" height="50" as="geometry" />
+          <mxGeometry x="370" y="30" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-76" value="модуль обработки платежей" style="html=1;whiteSpace=wrap;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-67">
-          <mxGeometry x="590" y="190" width="110" height="50" as="geometry" />
+          <mxGeometry x="510" y="30" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-77" value="модуль истории поездок клиента" style="html=1;whiteSpace=wrap;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-67">
-          <mxGeometry x="390" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="230" y="30" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-78" value="модуль истории поездок водителя" style="html=1;whiteSpace=wrap;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-67">
-          <mxGeometry x="570" y="300" width="110" height="50" as="geometry" />
+          <mxGeometry x="800" y="30" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cKeQ6S0oiYJnXy505rPp-79" value="модуль центральной системы" style="html=1;whiteSpace=wrap;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-67">
-          <mxGeometry x="780" y="280" width="110" height="50" as="geometry" />
+        <mxCell id="cKeQ6S0oiYJnXy505rPp-79" value="модуль центральной системы" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKeQ6S0oiYJnXy505rPp-74" value="&amp;nbsp;пользовательский интерфейс" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="840" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKeQ6S0oiYJnXy505rPp-81" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cKeQ6S0oiYJnXy505rPp-48" target="cKeQ6S0oiYJnXy505rPp-74">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-645" y="560" as="sourcePoint" />
+            <mxPoint x="-650" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKeQ6S0oiYJnXy505rPp-82" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cKeQ6S0oiYJnXy505rPp-80" target="cKeQ6S0oiYJnXy505rPp-74">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-750" y="525" as="sourcePoint" />
+            <mxPoint x="-540" y="620" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
