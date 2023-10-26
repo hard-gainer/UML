@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T14:44:19.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vQYNKIlgcngXYW34wrfY" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T14:44:28.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Zc8h9X35nbiTAD4DBiNk" version="22.0.8" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3382" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -251,12 +251,6 @@
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-93" value="Поездки" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="cKeQ6S0oiYJnXy505rPp-95">
           <mxGeometry x="680" y="70" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cKeQ6S0oiYJnXy505rPp-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cKeQ6S0oiYJnXy505rPp-95">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="220" as="sourcePoint" />
-            <mxPoint x="700" y="170" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="cKeQ6S0oiYJnXy505rPp-104" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="cKeQ6S0oiYJnXy505rPp-48" target="cKeQ6S0oiYJnXy505rPp-91">
           <mxGeometry width="80" relative="1" as="geometry">
