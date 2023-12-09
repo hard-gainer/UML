@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T16:41:26.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3gtY-7nBVS1f6qwQ_Gk8" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T16:42:40.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zjWbg2CSjiMtaLHWc5C9" version="22.1.7" type="github">
   <diagram name="Страница — 1" id="lloAKO8NWBnmGpPpq5M4">
     <mxGraphModel dx="691" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,40 @@
         </mxCell>
         <mxCell id="igG9tNTRTwd6ONi_kht--24" value="Р2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--25" value="C1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--26" value="C1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--27" value="Св1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--28" value="Св2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--29" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="igG9tNTRTwd6ONi_kht--27" target="igG9tNTRTwd6ONi_kht--3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="790" as="sourcePoint" />
+            <mxPoint x="417" y="829" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--30" value="Is a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="igG9tNTRTwd6ONi_kht--29">
+          <mxGeometry x="-0.2897" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="igG9tNTRTwd6ONi_kht--28" target="igG9tNTRTwd6ONi_kht--3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="633" y="601" as="sourcePoint" />
+            <mxPoint x="550" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--32" value="Is a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="igG9tNTRTwd6ONi_kht--31">
+          <mxGeometry x="-0.2897" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
