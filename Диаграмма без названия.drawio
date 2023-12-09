@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T16:42:40.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zjWbg2CSjiMtaLHWc5C9" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T16:43:16.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h63iaHtRFYHXyp0tW-h-" version="22.1.7" type="github">
   <diagram name="Страница — 1" id="lloAKO8NWBnmGpPpq5M4">
     <mxGraphModel dx="691" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,6 +127,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="igG9tNTRTwd6ONi_kht--32" value="Is a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="igG9tNTRTwd6ONi_kht--31">
+          <mxGeometry x="-0.2897" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--33" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igG9tNTRTwd6ONi_kht--25" target="igG9tNTRTwd6ONi_kht--6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="720" as="sourcePoint" />
+            <mxPoint x="250" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--34" value="Is a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="igG9tNTRTwd6ONi_kht--33">
+          <mxGeometry x="-0.2897" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igG9tNTRTwd6ONi_kht--26" target="igG9tNTRTwd6ONi_kht--6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="464" y="740" as="sourcePoint" />
+            <mxPoint x="464" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--36" value="Is a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="igG9tNTRTwd6ONi_kht--35">
+          <mxGeometry x="-0.2897" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--39" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="igG9tNTRTwd6ONi_kht--24" target="igG9tNTRTwd6ONi_kht--4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="760" as="sourcePoint" />
+            <mxPoint x="170" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--40" value="Is a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="igG9tNTRTwd6ONi_kht--39">
+          <mxGeometry x="-0.2897" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igG9tNTRTwd6ONi_kht--23" target="igG9tNTRTwd6ONi_kht--4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="79.82999999999998" y="680" as="sourcePoint" />
+            <mxPoint x="79.82999999999998" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igG9tNTRTwd6ONi_kht--42" value="Is a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="igG9tNTRTwd6ONi_kht--41">
           <mxGeometry x="-0.2897" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
