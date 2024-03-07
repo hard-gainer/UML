@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T11:42:32.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ArAZIHeOTtTmZ3iiK0Hf" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T11:44:28.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_GlUgsorOVklveh13jbi" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2555" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,13 +101,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-iwIUZHb4X36fMMWSx2-17" value="Просмотреть информацию о пользователе" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="1430" width="140" height="70" as="geometry" />
+          <mxGeometry x="850" y="1210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z-iwIUZHb4X36fMMWSx2-18" value="Посмотреть статус заказа" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="1430" width="140" height="70" as="geometry" />
+          <mxGeometry x="687" y="1210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z-iwIUZHb4X36fMMWSx2-19" value="Администратор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1020" y="1290" width="30" height="60" as="geometry" />
+          <mxGeometry x="950" y="1460" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-iwIUZHb4X36fMMWSx2-22" value="Получить заказ для доставки" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="860" width="140" height="70" as="geometry" />
@@ -123,6 +123,15 @@
             <mxPoint x="820" y="1070" as="sourcePoint" />
             <mxPoint x="840" y="1190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-iwIUZHb4X36fMMWSx2-26" value="Удаление пиццы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="1460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iwIUZHb4X36fMMWSx2-27" value="Редактирование пиццы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="687" y="1550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-iwIUZHb4X36fMMWSx2-28" value="Добавление пиццы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="1370" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
