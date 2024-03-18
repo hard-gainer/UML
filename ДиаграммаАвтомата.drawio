@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T13:39:43.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GZI0YeNgMVmSvSa_bSLl" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T13:51:15.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XvUksvJsiufcjjdk78Ge" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="svo4xueaaqVHP-x0B6R1">
-    <mxGraphModel dx="1815" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2257" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           <mxGeometry x="230" y="140" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AfkmOP6WJ37Uotsz-tm1-11" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="427.5" y="430" width="20" height="20" as="geometry" />
+          <mxGeometry x="427.5" y="455" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AfkmOP6WJ37Uotsz-tm1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfkmOP6WJ37Uotsz-tm1-20" target="AfkmOP6WJ37Uotsz-tm1-11">
           <mxGeometry relative="1" as="geometry" />
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="AfkmOP6WJ37Uotsz-tm1-67" value="Заказ доставлен" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="287.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfkmOP6WJ37Uotsz-tm1-68" value="Заказ создан и передается курьеру" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="410" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
