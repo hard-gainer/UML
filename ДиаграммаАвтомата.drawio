@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T11:21:27.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1WCBK1JdTe7X-yLvE6UW" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T11:24:18.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GySdkjPaZK-TJesRjk4D" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="svo4xueaaqVHP-x0B6R1">
     <mxGraphModel dx="691" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,8 +18,20 @@
         <mxCell id="AfkmOP6WJ37Uotsz-tm1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfkmOP6WJ37Uotsz-tm1-15" target="AfkmOP6WJ37Uotsz-tm1-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AfkmOP6WJ37Uotsz-tm1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfkmOP6WJ37Uotsz-tm1-15" target="AfkmOP6WJ37Uotsz-tm1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AfkmOP6WJ37Uotsz-tm1-15" value="Оформить заказ" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="210" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfkmOP6WJ37Uotsz-tm1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfkmOP6WJ37Uotsz-tm1-20" target="AfkmOP6WJ37Uotsz-tm1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfkmOP6WJ37Uotsz-tm1-20" value="Ожидание выбора пиццы" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="270" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfkmOP6WJ37Uotsz-tm1-22" value="Пицца выбрана" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="350" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
