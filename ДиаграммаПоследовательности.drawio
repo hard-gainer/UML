@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T17:00:30.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wP9u0XDmi3MqVHq3nVGf" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T17:04:32.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wcithIJTTIrNnVpiZaM8" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="hY87scyZslR1d9eWhfrw">
     <mxGraphModel dx="830" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,9 +29,6 @@
         </mxCell>
         <mxCell id="r4ULVXh8f3Sc4uGh58wk-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UCRyetdWfhHOHcdlKuk4-3">
           <mxGeometry x="45" y="290" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UCRyetdWfhHOHcdlKuk4-3">
-          <mxGeometry x="45" y="400" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UCRyetdWfhHOHcdlKuk4-4" value="Курьер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="720" y="230" width="100" height="570" as="geometry" />
@@ -87,11 +84,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="UCRyetdWfhHOHcdlKuk4-1" target="r4ULVXh8f3Sc4uGh58wk-10">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="UCRyetdWfhHOHcdlKuk4-3" target="UCRyetdWfhHOHcdlKuk4-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="262" y="604" as="sourcePoint" />
             <mxPoint x="427" y="604" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="500" y="580" />
               <mxPoint x="352" y="604" />
               <mxPoint x="412" y="624" />
               <mxPoint x="402" y="634" />
@@ -110,10 +108,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-11" value="вернуть статус заказа" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="r4ULVXh8f3Sc4uGh58wk-10" target="UCRyetdWfhHOHcdlKuk4-1">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-11" value="возвращение статуса заказа" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.001" width="160" relative="1" as="geometry">
-            <mxPoint x="342.5" y="640" as="sourcePoint" />
-            <mxPoint x="177.5" y="640" as="targetPoint" />
+            <mxPoint x="629.5" y="609" as="sourcePoint" />
+            <mxPoint x="260.0999999999999" y="609" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
