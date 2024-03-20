@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T18:28:22.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QbxtMEcCN1OvcrRbdoMZ" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T18:48:23.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dl03Iv9Q4pxANg_vVNlJ" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="hY87scyZslR1d9eWhfrw">
     <mxGraphModel dx="988" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,14 +36,17 @@
         <mxCell id="r4ULVXh8f3Sc4uGh58wk-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UCRyetdWfhHOHcdlKuk4-3">
           <mxGeometry x="45" y="520" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" target="r4ULVXh8f3Sc4uGh58wk-17">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="UCRyetdWfhHOHcdlKuk4-4" target="r4ULVXh8f3Sc4uGh58wk-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="451" as="targetPoint" />
-            <mxPoint x="769.5" y="450.8571428571428" as="sourcePoint" />
+            <mxPoint x="662" y="450.80952380952374" as="targetPoint" />
+            <mxPoint x="796.5" y="450.8571428571428" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="640" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UCRyetdWfhHOHcdlKuk4-4" value="Курьер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="720" y="230" width="100" height="570" as="geometry" />
+          <mxGeometry x="750" y="230" width="100" height="570" as="geometry" />
         </mxCell>
         <mxCell id="UCRyetdWfhHOHcdlKuk4-9" value="добавить пиццу&lt;div&gt;&amp;nbsp;в корзину&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="260" width="110" height="40" as="geometry" />
@@ -181,9 +184,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r4ULVXh8f3Sc4uGh58wk-39" value="получить заказ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="428" width="110" height="30" as="geometry" />
+          <mxGeometry x="657" y="428" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-40" value="передать заказ курьеру" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-40" value="заказ был передан курьеру" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" target="UCRyetdWfhHOHcdlKuk4-4">
           <mxGeometry x="0.001" width="160" relative="1" as="geometry">
             <mxPoint x="635" y="471.5" as="sourcePoint" />
             <mxPoint x="769.5" y="471.5" as="targetPoint" />
