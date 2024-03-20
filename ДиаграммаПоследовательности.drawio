@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T16:35:18.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vk6F52VR7Zcc0uPvwAHg" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T16:39:21.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ybk84qyygk1q3m0SbPJ2" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="hY87scyZslR1d9eWhfrw">
     <mxGraphModel dx="988" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         <mxCell id="UCRyetdWfhHOHcdlKuk4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="UCRyetdWfhHOHcdlKuk4-3" source="UCRyetdWfhHOHcdlKuk4-6" target="UCRyetdWfhHOHcdlKuk4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UCRyetdWfhHOHcdlKuk4-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UCRyetdWfhHOHcdlKuk4-3">
+          <mxGeometry x="45" y="190" width="10" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="UCRyetdWfhHOHcdlKuk4-4" value="Курьер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="720" y="230" width="100" height="460" as="geometry" />
         </mxCell>
@@ -31,7 +34,21 @@
           <mxGeometry x="450" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UCRyetdWfhHOHcdlKuk4-10" value="Заказ" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="560" y="230" width="100" height="460" as="geometry" />
+          <mxGeometry x="580" y="380" width="100" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UCRyetdWfhHOHcdlKuk4-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" target="UCRyetdWfhHOHcdlKuk4-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.02380952380963" y="410" as="sourcePoint" />
+            <mxPoint x="430" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCRyetdWfhHOHcdlKuk4-13" value="оформить заказ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UCRyetdWfhHOHcdlKuk4-12">
+          <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
