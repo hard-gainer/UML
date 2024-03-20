@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T16:31:22.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="19tPRjoxT4Jnphk1UpTv" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T16:32:55.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="a6kJRdP-_rMiGXdjTX3s" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="hY87scyZslR1d9eWhfrw">
     <mxGraphModel dx="988" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="UCRyetdWfhHOHcdlKuk4-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="UCRyetdWfhHOHcdlKuk4-1" target="UCRyetdWfhHOHcdlKuk4-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCRyetdWfhHOHcdlKuk4-7" value="выбрать пиццу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UCRyetdWfhHOHcdlKuk4-5">
+          <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UCRyetdWfhHOHcdlKuk4-1" value="Пользователь" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="100" height="460" as="geometry" />
@@ -16,8 +21,14 @@
         <mxCell id="UCRyetdWfhHOHcdlKuk4-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UCRyetdWfhHOHcdlKuk4-3">
           <mxGeometry x="45" y="130" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UCRyetdWfhHOHcdlKuk4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="UCRyetdWfhHOHcdlKuk4-3" source="UCRyetdWfhHOHcdlKuk4-6" target="UCRyetdWfhHOHcdlKuk4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UCRyetdWfhHOHcdlKuk4-4" value="Курьер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="100" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UCRyetdWfhHOHcdlKuk4-9" value="добавить пиццу&lt;div&gt;&amp;nbsp;в корзину&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
