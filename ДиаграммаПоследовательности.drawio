@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T09:56:31.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UcenuJ0qQxZbIZ9uREki" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T09:57:36.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1Ff2j9bBqYUSb7_3ZTVL" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="hY87scyZslR1d9eWhfrw">
     <mxGraphModel dx="1185" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-8" value="посмотреть статус&lt;div&gt;&amp;nbsp;заказа&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4ULVXh8f3Sc4uGh58wk-7" vertex="1" connectable="0">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-8" value="10 : посмотреть статус&lt;div&gt;&amp;nbsp;заказа&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4ULVXh8f3Sc4uGh58wk-7" vertex="1" connectable="0">
           <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="-14" as="offset" />
           </mxGeometry>
@@ -100,7 +100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-11" value="возвращение статуса заказа" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-11" value="11 : возвращение статуса заказа" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.0801" y="1" width="160" relative="1" as="geometry">
             <mxPoint x="629.5" y="649" as="sourcePoint" />
             <mxPoint x="260.0999999999999" y="649" as="targetPoint" />
@@ -131,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-30" value="доставить заказ = &amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4ULVXh8f3Sc4uGh58wk-29" vertex="1" connectable="0">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-30" value="12 : доставить заказ = &amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4ULVXh8f3Sc4uGh58wk-29" vertex="1" connectable="0">
           <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
             <mxPoint x="-17" y="-9" as="offset" />
           </mxGeometry>
@@ -145,12 +145,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-33" value="написать отзыв" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4ULVXh8f3Sc4uGh58wk-32" vertex="1" connectable="0">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-33" value="13 : написать отзыв" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4ULVXh8f3Sc4uGh58wk-32" vertex="1" connectable="0">
           <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
             <mxPoint x="14" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-37" value="отзыв был опубликован" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="r4ULVXh8f3Sc4uGh58wk-31" target="UCRyetdWfhHOHcdlKuk4-1" edge="1">
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-37" value="14 : отзыв был опубликован" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="r4ULVXh8f3Sc4uGh58wk-31" target="UCRyetdWfhHOHcdlKuk4-1" edge="1">
           <mxGeometry x="0.0801" y="1" width="160" relative="1" as="geometry">
             <mxPoint x="339.4" y="770" as="sourcePoint" />
             <mxPoint x="-30.000000000000114" y="770" as="targetPoint" />
@@ -176,8 +176,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4ULVXh8f3Sc4uGh58wk-42" value="посмотреть историю&lt;div&gt;&amp;nbsp;заказов&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="368.7857142857142" y="555" as="geometry" />
+        <mxCell id="r4ULVXh8f3Sc4uGh58wk-42" value="9 : посмотреть историю&lt;div&gt;&amp;nbsp;заказов&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="359.9957142857142" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
