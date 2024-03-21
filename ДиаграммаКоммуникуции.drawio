@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T10:13:58.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JHOcZzgTwegw3-Wvu2tV" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T10:14:24.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ExZF5SlSVOaDJK6DqlRB" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="qvXPU_ac4Wfljck9UBVI">
-    <mxGraphModel dx="1430" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4ciE3WCKxtOSDdIdIJk-39" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;10 : посмотреть статус&lt;/span&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;заказа&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="170" width="140" height="40" as="geometry" />
+          <mxGeometry x="210" y="170" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-4ciE3WCKxtOSDdIdIJk-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-4ciE3WCKxtOSDdIdIJk-1" target="-4ciE3WCKxtOSDdIdIJk-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -114,13 +114,8 @@
             <mxPoint x="300" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-4ciE3WCKxtOSDdIdIJk-44" value="11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-4ciE3WCKxtOSDdIdIJk-43">
-          <mxGeometry x="-0.0264" y="1" relative="1" as="geometry">
-            <mxPoint x="5" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-4ciE3WCKxtOSDdIdIJk-45" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22290%22%20y%3D%22150%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22360%22%20y%3D%22190%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;11 : возвращение статуса заказа&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="190" height="30" as="geometry" />
+          <mxGeometry x="324" y="140" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4ciE3WCKxtOSDdIdIJk-46" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-4ciE3WCKxtOSDdIdIJk-5" target="-4ciE3WCKxtOSDdIdIJk-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
