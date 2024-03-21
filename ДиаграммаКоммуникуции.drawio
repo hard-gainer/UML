@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T10:23:14.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ApYjtBvUtJmmgzWT6OHG" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T10:23:34.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GdLVQB7WtoyeoQneWcLT" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="qvXPU_ac4Wfljck9UBVI">
-    <mxGraphModel dx="691" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,6 +251,9 @@
           <mxGeometry x="-0.088" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-4ciE3WCKxtOSDdIdIJk-73" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;13 : написать отзыв&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
