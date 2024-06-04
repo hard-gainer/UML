@@ -1,23 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T15:52:33.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5O9T_R7QVsdyzACIzx9A" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T16:16:23.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3TfyrylU7WNeBGx5BBGA" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="n8TSN614gjoDNXFW8jnp">
-    <mxGraphModel dx="1185" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qrRaa9IktmUIo8uapEVB-1" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1140" width="30" height="60" as="geometry" />
+          <mxGeometry x="100" y="1190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-2" value="Usecase: тайм-трекера." style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=140;height=90;" vertex="1" parent="1">
           <mxGeometry x="180" y="710" width="1000" height="950" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-3" value="Добавить сотрудника к проекту" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1000" width="116" height="60" as="geometry" />
+          <mxGeometry x="470" y="960" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-4" value="Добавить новый проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1000" width="116" height="60" as="geometry" />
+          <mxGeometry x="300" y="1020" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-5" value="Редактировать проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="930" width="116" height="60" as="geometry" />
+          <mxGeometry x="298" y="910" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-6" value="Администратор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="980" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-8" value="Добавить новый проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="1150" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-6" target="qrRaa9IktmUIo8uapEVB-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="990" as="sourcePoint" />
+            <mxPoint x="290" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-6" target="qrRaa9IktmUIo8uapEVB-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="1020" as="sourcePoint" />
+            <mxPoint x="308" y="950" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
