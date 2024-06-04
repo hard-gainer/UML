@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T20:27:11.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cnx3opY5fQaUsCv8hRIr" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T20:28:32.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6TEahZy19isCYbsJ8qRX" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="z5sgAzJ3_U2AJAHKua1P">
     <mxGraphModel dx="1185" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-9">
-          <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="305" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="rZv-Nm_vUQGnWTQNMnVO-1" target="rZv-Nm_vUQGnWTQNMnVO-10">
           <mxGeometry relative="1" as="geometry">
@@ -76,6 +76,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-22" value="4 : установить сроки выполнения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rZv-Nm_vUQGnWTQNMnVO-21">
+          <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="rZv-Nm_vUQGnWTQNMnVO-1" target="rZv-Nm_vUQGnWTQNMnVO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="370" as="sourcePoint" />
+            <mxPoint x="474" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-25" value="5 : добавить вложение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rZv-Nm_vUQGnWTQNMnVO-24">
           <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
             <mxPoint x="14" y="-9" as="offset" />
           </mxGeometry>
