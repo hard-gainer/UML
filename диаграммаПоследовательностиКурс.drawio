@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T20:38:30.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hqcQXIZJIXxEkvACJ-wh" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T20:38:40.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="B2BDdanaXcSIEpbLVQqL" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="z5sgAzJ3_U2AJAHKua1P">
     <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="80" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-8" value="Пользователь" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="690" y="120" width="100" height="650" as="geometry" />
+          <mxGeometry x="700" y="120" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-9" value="Приложение" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="250" y="120" width="100" height="650" as="geometry" />
