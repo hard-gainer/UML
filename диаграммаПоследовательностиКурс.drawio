@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T21:03:19.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_2k_PIhOD45J4lgg2wxH" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T21:05:10.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Wu4_XPCzPnmXfR0L-W3g" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="z5sgAzJ3_U2AJAHKua1P">
     <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-1" value="Администратор" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="100" height="1040" as="geometry" />
+          <mxGeometry x="80" y="80" width="100" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-8" value="Пользователь" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="700" y="120" width="100" height="1000" as="geometry" />
+          <mxGeometry x="700" y="120" width="100" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-9" value="Приложение" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="100" height="1000" as="geometry" />
+          <mxGeometry x="250" y="120" width="100" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-9">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-13" value="Задача" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="414" y="120" width="100" height="1000" as="geometry" />
+          <mxGeometry x="414" y="120" width="100" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-13">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-37" value="Проект" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="100" height="1000" as="geometry" />
+          <mxGeometry x="560" y="120" width="100" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-37">
           <mxGeometry x="45" y="460" width="10" height="40" as="geometry" />
@@ -335,7 +335,7 @@
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-91" value="&amp;lt;&amp;lt;update&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="380.00428571428574" y="930" as="geometry" />
         </mxCell>
-        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-92" value="21: вложение изменено" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-92" value="22: вложение изменено" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0007" y="-5" width="160" relative="1" as="geometry">
             <mxPoint x="463.5" y="990" as="sourcePoint" />
             <mxPoint x="129.81034482758628" y="990" as="targetPoint" />
@@ -351,14 +351,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-95" value="21 : изменить вложение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rZv-Nm_vUQGnWTQNMnVO-94">
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-95" value="23 : изменить сроки выполнения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rZv-Nm_vUQGnWTQNMnVO-94">
           <mxGeometry x="-0.2426" y="1" relative="1" as="geometry">
-            <mxPoint x="14" y="-9" as="offset" />
+            <mxPoint x="17" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="rZv-Nm_vUQGnWTQNMnVO-93" target="rZv-Nm_vUQGnWTQNMnVO-97">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-99" value="&amp;lt;&amp;lt;update&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380.00428571428574" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-100" value="24: сроки выполнения изменены" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0007" y="-5" width="160" relative="1" as="geometry">
+            <mxPoint x="463.5" y="1079" as="sourcePoint" />
+            <mxPoint x="129.81034482758628" y="1079" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
