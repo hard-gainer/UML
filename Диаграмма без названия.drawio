@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T19:15:24.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ChXli-TBewYwH6-kK0E4" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T19:15:47.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JkGfdPqik36Wuzp-_DVx" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="n8TSN614gjoDNXFW8jnp">
     <mxGraphModel dx="988" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,6 +177,9 @@
             <mxPoint x="323" y="870" as="sourcePoint" />
             <mxPoint x="390" y="928" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-49" value="Изменить сроки выполнения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="730" width="116" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
