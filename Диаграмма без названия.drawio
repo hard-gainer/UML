@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T17:14:24.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XuFd9ow7wi4Pmu5nvgB_" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T17:15:25.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="209QXv8a-mvtpW7Orc6v" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="n8TSN614gjoDNXFW8jnp">
     <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="180" y="710" width="1000" height="950" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-3" value="Добавить сотрудника к проекту" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="564" y="930" width="116" height="60" as="geometry" />
+          <mxGeometry x="596" y="960" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-4" value="Добавить новый проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="1010" width="116" height="60" as="geometry" />
+          <mxGeometry x="387" y="1050" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-5" value="Редактировать проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387" y="850" width="116" height="60" as="geometry" />
@@ -83,6 +83,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="212" y="1221" as="sourcePoint" />
             <mxPoint x="387" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-23" value="Просмотреть информацию о проекте" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="950" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-6" target="qrRaa9IktmUIo8uapEVB-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="1020" as="sourcePoint" />
+            <mxPoint x="397" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
