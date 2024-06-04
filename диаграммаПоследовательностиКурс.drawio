@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T21:06:53.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3kQD6kAjJFMdbXGBJrTF" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T21:07:17.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tn5QU4j2jKjyTVD3xeg-" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="z5sgAzJ3_U2AJAHKua1P">
-    <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,8 +401,8 @@
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-108" value="26: описание изменено" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0003" y="-5" width="160" relative="1" as="geometry">
-            <mxPoint x="466.84" y="1169" as="sourcePoint" />
-            <mxPoint x="133.15034482758628" y="1169" as="targetPoint" />
+            <mxPoint x="463.5" y="1166" as="sourcePoint" />
+            <mxPoint x="130.16666666666663" y="1166" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
