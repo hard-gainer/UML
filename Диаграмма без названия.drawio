@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T19:15:55.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9LGXeleZSOzGbRau-aVh" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T19:17:39.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6h-qc5ZBlRQC0_-wmoK5" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="n8TSN614gjoDNXFW8jnp">
     <mxGraphModel dx="988" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="80" y="1217.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-2" value="Usecase тайм-трекера." style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=140;height=90;" vertex="1" parent="1">
-          <mxGeometry x="50" y="680" width="960" height="880" as="geometry" />
+          <mxGeometry x="50" y="630" width="1080" height="930" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-3" value="Назначить сотрудника на проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="870" width="116" height="60" as="geometry" />
+          <mxGeometry x="600" y="840" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-4" value="Добавить новый проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1010" width="116" height="60" as="geometry" />
+          <mxGeometry x="790" y="820" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-5" value="Редактировать проект" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="850" width="116" height="60" as="geometry" />
@@ -163,7 +163,7 @@
         <mxCell id="qrRaa9IktmUIo8uapEVB-45" value="Установить сроки выполнения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1110" width="116" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qrRaa9IktmUIo8uapEVB-46" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-45">
+        <mxCell id="qrRaa9IktmUIo8uapEVB-46" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-45" target="qrRaa9IktmUIo8uapEVB-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="324" y="1100" as="sourcePoint" />
             <mxPoint x="384" y="1110" as="targetPoint" />
@@ -179,12 +179,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-49" value="Изменить сроки выполнения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="730" width="116" height="60" as="geometry" />
+          <mxGeometry x="406" y="710" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrRaa9IktmUIo8uapEVB-50" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-49" target="qrRaa9IktmUIo8uapEVB-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="460" y="822" as="sourcePoint" />
             <mxPoint x="512" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-51" value="Добавить вложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="670" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-53" value="Добавить описание&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="660" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-54" value="Установить сроки выполнения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="680" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-55" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-51" target="qrRaa9IktmUIo8uapEVB-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="787" y="750" as="sourcePoint" />
+            <mxPoint x="854" y="808" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-57" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-53" target="qrRaa9IktmUIo8uapEVB-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="881" y="751" as="sourcePoint" />
+            <mxPoint x="940" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrRaa9IktmUIo8uapEVB-58" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrRaa9IktmUIo8uapEVB-54" target="qrRaa9IktmUIo8uapEVB-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="970" y="760.5" as="sourcePoint" />
+            <mxPoint x="1029" y="859.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
