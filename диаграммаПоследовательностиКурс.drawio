@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T20:41:13.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hF-pnpH-432Hqg6WfK9t" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T20:41:37.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TQzIoPyWy0FbgKp-n4mB" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="z5sgAzJ3_U2AJAHKua1P">
     <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-1" value="Администратор" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="100" height="650" as="geometry" />
+          <mxGeometry x="80" y="80" width="100" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-8" value="Пользователь" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="700" y="120" width="100" height="650" as="geometry" />
+          <mxGeometry x="700" y="120" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-9" value="Приложение" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="100" height="650" as="geometry" />
+          <mxGeometry x="250" y="120" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-9">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-13" value="Задача" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="414" y="120" width="100" height="650" as="geometry" />
+          <mxGeometry x="414" y="120" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-13">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
@@ -148,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-37" value="Проект" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="100" height="650" as="geometry" />
+          <mxGeometry x="560" y="120" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-37">
           <mxGeometry x="45" y="460" width="10" height="40" as="geometry" />
