@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T15:42:46.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Vi03oTaOpUgfmrO1auux" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T15:43:14.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EmWD86-4v1jvuPiTGAOE" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="z5sgAzJ3_U2AJAHKua1P">
     <mxGraphModel dx="988" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry x="45.19" y="1340" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-137" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-9">
-          <mxGeometry x="45" y="1420" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="1420" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-140" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-9">
           <mxGeometry x="45.19" y="1500" width="10" height="40" as="geometry" />
@@ -162,7 +162,7 @@
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-97" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-13">
           <mxGeometry x="45" y="890" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-139" value="36: задача выполнена" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="rZv-Nm_vUQGnWTQNMnVO-13" source="rZv-Nm_vUQGnWTQNMnVO-9">
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-139" value="36: задача выполнена" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="rZv-Nm_vUQGnWTQNMnVO-13" source="rZv-Nm_vUQGnWTQNMnVO-150">
           <mxGeometry x="0.0934" y="3" width="160" relative="1" as="geometry">
             <mxPoint x="49.81034482758605" y="1473" as="sourcePoint" />
             <mxPoint x="335.5" y="1473" as="targetPoint" />
@@ -178,6 +178,12 @@
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-105" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-13">
           <mxGeometry x="45" y="1370" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-150" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rZv-Nm_vUQGnWTQNMnVO-13">
+          <mxGeometry x="45" y="1450" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-152" value="&amp;lt;&amp;lt;update&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rZv-Nm_vUQGnWTQNMnVO-13">
+          <mxGeometry x="-33.99571428571426" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="rZv-Nm_vUQGnWTQNMnVO-10" target="rZv-Nm_vUQGnWTQNMnVO-14">
           <mxGeometry relative="1" as="geometry" />
@@ -605,6 +611,16 @@
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-149" value="&amp;lt;&amp;lt;update&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="380.00428571428574" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" target="rZv-Nm_vUQGnWTQNMnVO-150" source="rZv-Nm_vUQGnWTQNMnVO-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459" y="1590" as="targetPoint" />
+            <mxPoint x="305" y="1595" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="1590" />
+              <mxPoint x="340" y="1590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
