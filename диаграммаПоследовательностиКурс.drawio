@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T16:03:51.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="epxo-LJxWKAZFq6EdJGO" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T16:04:24.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ABnZcpd9V5kGjh7vl-Gh" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="z5sgAzJ3_U2AJAHKua1P">
     <mxGraphModel dx="1185" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -693,6 +693,13 @@
         </mxCell>
         <mxCell id="rZv-Nm_vUQGnWTQNMnVO-166" value="41 : добавить комментарий к задаче" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="609.9986206896554" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="rZv-Nm_vUQGnWTQNMnVO-167" value="42: комментарий добавлен" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="rZv-Nm_vUQGnWTQNMnVO-163" target="rZv-Nm_vUQGnWTQNMnVO-8">
+          <mxGeometry x="0.0934" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="489.5" y="1870" as="sourcePoint" />
+            <mxPoint x="770.5" y="1870" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
